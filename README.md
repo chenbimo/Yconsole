@@ -1,3 +1,3 @@
 # Yconsole
 Yconsole，DIY的console命令。
-![Image text](http://rmain.gitee.io/yconsole/img/preview.png)
+![Image text](https://raw.githubusercontent.com/chenbimo/Yconsole/master/img/img001.png)
